@@ -11,52 +11,52 @@
 - Session 1 (Tu 9/7): ml5.js
 - Session 2 (Th 9/9): Image Classification
 
-### 2: [Transfer Learning](02_transfer_learning)
+### 2: Transfer Learning
 
 - Session 1 (Tu 9/14): Transfer Learning with Teachable Machine
 - Session 2 (Th 9/16): Transfer learning with ml5.js
 
-### 3: [Machine Learning Models](03_ml_models)
+### 3: Machine Learning Models
 
 - Session 1 (Tu 9/21): Pre-trained models 1
 - Session 2 (Th 9/23): Pre-trained models 2
 
-### 4: [Training a Model](04_training)
+### 4: Training a Model
 
 - Session 1 (Tu 9/28): Real-Time Data Collection
 - Session 2 (Th 9/30): Real-Time Model Training
 
-### 5: [Datasets and Training](05_training)
+### 5: Datasets and Training
 
 - Session 1 (Tu 10/5): CSV and JSON Data
 - Session 2 (Th 10/7): More Model Training
 
-### 6: [Convolutional Neural Networks](06_cnn)
+### 6: Convolutional Neural Networks
 
 - no class Tuesday, 10/12!
 - Session 1 (Th 10/14): Image Data and Model Training
 
-### 7: [Recurrent Neural Networks](07_rnn)
+### 7: Recurrent Neural Networks
 
 - Session 1 (Tu 10/19): SketchRNN (Drawing)
 - Session 2 (Th 10/21): charRNN (Text)
 
-### 8: [Pre-Trained Models with RunwayML](08_runwayml)
+### 8: Pre-Trained Models with RunwayML
 
 - Session 1 (Tu 10/26): Introduction to RunwayML
 - Session 2 (Th 10/28): RunwayML Model Workshop
 
-### 9: [Generative Models with Runway](09_runwayml)
+### 9: Generative Models with RunwayML
 
 - Session 1 (Tu 11/2): Hosted Models and Networking
 - Session 2 (Th 11/4): Generative Adversarial Networks, Interactive Image Synthesis
 
-### 10: [Model Training with RunwayML](10_runwayml)
+### 10: Model Training with RunwayML
 
 - Session 1 (Tu 11/9): StyleGAN and Object Detection
 - Session 2 (Th 11/11): GPT-2
 
-### 11/12: [Final Project Proposals](final)
+### 11/12: Final Project Proposals
 
 - Session 1 (Tu 11/16) 
 - Session 2 (Th 11/18)
@@ -64,7 +64,7 @@
 
 ***Thanksgiving break***
 
-### 12/13: [Final Project Development and Testing](final)
+### 12/13: Final Project Development and Testing
 
 - Session 1 (Tu 11/30)
 - Session 2 (Th 12/2)
@@ -77,7 +77,7 @@
 
 ## CODE OF CONDUCT
 
-Please read and review the [ITP/IMA Code of Conduct](https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/blob/main/README.md). The Code of Conduct will be reviewed and discussed as part of the course introduction.
+Please read and review the [ITP/IMA Code of Conduct](https://itp.nyu.edu/codeofconduct). The Code of Conduct will be reviewed and discussed as part of the course introduction.
 
 The ITP/IMA Code of Conduct is an evolving work-in-progress document that establishes and communicates the commitment of the ITP/IMA community to uphold a key set of standards and obligations that aim to make ITP/IMA an inclusive and welcoming environment.
 
