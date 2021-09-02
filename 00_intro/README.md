@@ -10,7 +10,7 @@
 ## Outline
 * Introductions
 * Syllabus
-* [Slides: Introduction to ML](https://docs.google.com/presentation/d/1tehmNfZdN68_PouhwVmZ2MNrVRLs0dYixkCyhTbi_EY/edit?usp=sharing)
+* [Slides: Introduction to ML](https://docs.google.com/presentation/d/1q1mqEPTKKrsPxzmg1g1NvvBzypFy18VPRiPGkx-EkN0/edit?usp=sharing)
 * p5.js review
 
 ## Supplemental Materials
