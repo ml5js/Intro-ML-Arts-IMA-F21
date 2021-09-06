@@ -45,5 +45,5 @@
 
 ### Assignment 1B
 1. Explore [ImageNet](http://image-net.org/index). What surprises you about this data set? What questions do you have? Thinking back to last week’s assignment, can you think of any ethical considerations around how this data was collected Are there privacy considerations with the data?
-2. Using the [ml5.js examples above](https://github.com/ml5js/Intro-ML-Arts-IMA-F20/tree/main/02_ml_models#ml5-code-editor-examples), try running image classification on a variety of images. Pick at least 10 objects in your room. How many of these does it recognize? What other aspects of the image affect the classification, including but not limited to position, scale, lighting, etc.
+2. Using the [ml5.js examples above](https://github.com/ml5js/Intro-ML-Arts-IMA-F21/blob/main/01_ml5/README.md#ml5-code-editor-examples), try running image classification on a variety of images. Pick at least 10 objects in your room. How many of these does it recognize? What other aspects of the image affect the classification, including but not limited to position, scale, lighting, etc.
 3. Document your thoughts on MobileNet and image classification in a blog post and add a link to the [Assignment 1b Wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F21/wiki/Assignment-1b).
