@@ -11,7 +11,7 @@
 - Session 1 (Tu 9/7): ml5.js
 - Session 2 (Th 9/9): Image Classification
 
-### 2: Transfer Learning
+### 2: [Transfer Learning](02_transfer_learning)
 
 - Session 1 (Tu 9/14): Transfer Learning with Teachable Machine
 - Session 2 (Th 9/16): Transfer learning with ml5.js
