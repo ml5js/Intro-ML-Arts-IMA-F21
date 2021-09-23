@@ -35,7 +35,7 @@
 - [ml5.js Pose Estimation with PoseNet](https://youtu.be/OIo-DIOkNVg?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y), [code](https://editor.p5js.org/codingtrain/sketches/ULA97pJXR)
 - [ml5.js Object Detection](https://youtu.be/QEzRxnuaZCk), [code](https://thecodingtrain.com/learning/ml5/1.3-object-detection.html)
 
-### ml5 code editor examples
+### p5 web editor examples
 
 - [PoseNet Webcam Part Selection](https://editor.p5js.org/ml5/sketches/PoseNet_part_selection)
 - [PoseNet Webcam Full Skeleton](https://editor.p5js.org/ml5/sketches/PoseNet_webcam)
