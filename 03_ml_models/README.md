@@ -53,7 +53,7 @@
 - [The Treachery of Sanctuary](https://www.youtube.com/watch?v=I5__9hq-yas&feature=youtu.be) by Chris Milk
 - [Gait Analysis](https://www.runnersneed.com/expert-advice/gear-guides/gait-analysis.html) from runnersneed
 
-### Assignment 3, due Monday Sept 28:
+### Assignment 3
 
 2. Read [Mixing movement and machine](https://medium.com/artists-and-machine-intelligence/mixing-movement-and-machine-848095ea5596) by Maya Man
 3. Read [Humans of AI](https://humans-of.ai/editorial) by Philipp Schmitt
