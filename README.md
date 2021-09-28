@@ -16,7 +16,7 @@
 - Session 1 (Tu 9/14): Transfer Learning with Teachable Machine
 - Session 2 (Th 9/16): Transfer learning with ml5.js
 
-### 3: Machine Learning Models
+### 3: [Machine Learning Models](03_ml_models)
 
 - Session 1 (Tu 9/21): Pre-trained models 1
 - Session 2 (Th 9/23): Pre-trained models 2

@@ -19,10 +19,9 @@
 - [UNet](https://learn.ml5js.org/#/reference/unet)
   - Trained by [Zaid Alyafeai](https://github.com/zaidalyafeai) using [mut1ny - Face/Head segmentation dataset](http://www.mut1ny.com/face-headsegmentation-dataset)
 - [BodyPix](https://learn.ml5js.org/#/reference/bodypix)
-
   - [Introducing BodyPix: Real-time Person Segmentation in the Browser with TensorFlow.js](https://medium.com/tensorflow/introducing-bodypix-real-time-person-segmentation-in-the-browser-with-tensorflow-js-f1948126c2a0)
 
-  ### Data and Model Biographies
+### Data and Model Biographies
 
 - [Slides from Ellen Nickles](https://docs.google.com/presentation/d/1Ta8oen66-WgrShq4SdAl_hQ1DZnEWoOdC1wMGlIlswM/edit#slide=id.p)
 - [The Future Is Here!](https://thephotographersgallery.org.uk/whats-on/digital-project/mimi-onuoha-future-here), a commission for The Photographers’ Gallery which examines the process of dataset creation by Mimi Ọnụọha
@@ -36,7 +35,7 @@
 - [ml5.js Pose Estimation with PoseNet](https://youtu.be/OIo-DIOkNVg?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y), [code](https://editor.p5js.org/codingtrain/sketches/ULA97pJXR)
 - [ml5.js Object Detection](https://youtu.be/QEzRxnuaZCk), [code](https://thecodingtrain.com/learning/ml5/1.3-object-detection.html)
 
-### ml5 code editor examples
+### p5 web editor examples
 
 - [PoseNet Webcam Part Selection](https://editor.p5js.org/ml5/sketches/PoseNet_part_selection)
 - [PoseNet Webcam Full Skeleton](https://editor.p5js.org/ml5/sketches/PoseNet_webcam)
@@ -54,7 +53,7 @@
 - [The Treachery of Sanctuary](https://www.youtube.com/watch?v=I5__9hq-yas&feature=youtu.be) by Chris Milk
 - [Gait Analysis](https://www.runnersneed.com/expert-advice/gear-guides/gait-analysis.html) from runnersneed
 
-### Assignment 3, due Monday Sept 28:
+### Assignment 3
 
 2. Read [Mixing movement and machine](https://medium.com/artists-and-machine-intelligence/mixing-movement-and-machine-848095ea5596) by Maya Man
 3. Read [Humans of AI](https://humans-of.ai/editorial) by Philipp Schmitt
