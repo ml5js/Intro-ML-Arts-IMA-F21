@@ -21,12 +21,12 @@
 - Session 1 (Tu 9/21): Pre-trained models 1
 - Session 2 (Th 9/23): Pre-trained models 2
 
-### 4: Training a Model
+### 4: [Training a Model](04_training)
 
 - Session 1 (Tu 9/28): Real-Time Data Collection
 - Session 2 (Th 9/30): Real-Time Model Training
 
-### 5: Datasets and Training
+### 5: [Datasets and Training](05_training)
 
 - Session 1 (Tu 10/5): CSV and JSON Data
 - Session 2 (Th 10/7): More Model Training
@@ -58,11 +58,11 @@
 
 ### 11/12: Final Project Proposals
 
-- Session 1 (Tu 11/16) 
+- Session 1 (Tu 11/16)
 - Session 2 (Th 11/18)
-- Session 3 (Tu 11/23) 
+- Session 3 (Tu 11/23)
 
-***Thanksgiving break***
+**_Thanksgiving break_**
 
 ### 12/13: Final Project Development and Testing
 
