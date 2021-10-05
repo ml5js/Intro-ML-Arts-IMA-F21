@@ -1,4 +1,4 @@
-# Training a Neural Network
+# Training a Neural Network Part I
 
 ## Session A: Training a Neural Network
 
