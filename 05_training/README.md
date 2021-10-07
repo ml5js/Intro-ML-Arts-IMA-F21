@@ -43,15 +43,8 @@
 - [Color Classifer JSON Data](https://editor.p5js.org/ima_ml/sketches/WOLz4pub3)
 - [Color Classifier CSV Data](https://editor.p5js.org/ima_ml/sketches/8eskYqyhA)
 
-## Session B: What is (are!) Data?
+## Session B: Image Datasets and CNNs
 
-### Objectives:
+## Assignment
 
-- Consider how to frame the problem and collect data.
-  - Understand critical questions to ask (e.g. Who is this for? What’s the context?)
-  - Understand the questions to ask about sourcing and collecting data.
-  - Learn how to prepare a data set, including how to normalize and properly format it.
-
-### Assignment 5 Due Sunday October 11
-
-- TBD
+Coming soon, next due date is October 18 (w/ additional readings and exercises for you to get started with next week)
