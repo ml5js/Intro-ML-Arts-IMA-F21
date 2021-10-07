@@ -26,15 +26,15 @@
 - Session 1 (Tu 9/28): Real-Time Data Collection
 - Session 2 (Th 9/30): Real-Time Model Training
 
-### 5: [Datasets and Training](05_training)
+### 5: [Convolutional Neural Networks](05_CNN)
 
-- Session 1 (Tu 10/5): CSV and JSON Data
-- Session 2 (Th 10/7): More Model Training
+- Session 1 (Tu 10/5): Image Data
+- Session 2 (Th 10/7): Convolutional Neural Networks
 
-### 6: Convolutional Neural Networks
+### 6: [What are data?](06_data)
 
 - no class Tuesday, 10/12!
-- Session 1 (Th 10/14): Image Data and Model Training
+- Session 1 (Th 10/14): Working with Data
 
 ### 7: Recurrent Neural Networks
 

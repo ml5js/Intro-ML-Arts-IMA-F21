@@ -1,4 +1,4 @@
-# Training a Neural Network Part I
+# Training a Neural Network
 
 ## Session A: Training a Neural Network
 
@@ -22,6 +22,8 @@
 - [What is a Neural Network?](https://youtu.be/aircAruvnKk?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) by 3Blue1Brown
 - Invented in 1957 by Frank Rosenblatt at the Cornell Aeronautical Laboratory ([original paper](http://www.ling.upenn.edu/courses/cogs501/Rosenblatt1958.pdf)), a perceptron is the simplest neural network possible: a computational model of a single neuron. A perceptron consists of one or more inputs, a processor, and a single output. ([More to this history](https://github.com/ml5js/Intro-ML-Arts-IMA-F21/wiki/Brief-History-of-Artificial-Neural-Networks)
 - [NOC Neural Network videos](https://youtu.be/XJ7HLz9VYz0?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh) - 10.1 to 10.3 cover the "Perceptron", a model of a single neuron. The Perceptron forms the basis of modern multi-layer deep learning networks.
+- [Perceptron p5.js code](https://editor.p5js.org/natureofcode/sketches/HkJ0cRmux)
+- [Perceptron Slides](https://drive.google.com/file/d/1io05Uzpb9BclWzXyvB6wEj_Zu4uI_hOX/view?usp=sharing)
 - [NOC Neural Network chapter 10](https://natureofcode.com/book/chapter-10-neural-networks/) - written explanation of Perceptron and accompanying code in 10.1 to 10.4.
 
 ### p5.js Oscillators
@@ -86,8 +88,8 @@
    - What other real-time inputs might you consider beyond mouse position, image pixels, or face/pose/hand tracking? Could you use real-time sensor data?
    - What other real-time outputs might you consider beyond color or sound modulation? Could the output be a physical computing device? Multiple outputs like R,G,B values?
    - Improve the [handPose example we built in class](https://editor.p5js.org/ima_ml/sketches/JjnhklcOX)
-       - Can you add more keypoints from the hand to the data collection? (All the keypoints?)
-       - Can you add more classification categories? 
-       - Can you create an interface for training and showing the results of model's prediction?
-       - Can you turn this into a regression model?
+     - Can you add more keypoints from the hand to the data collection? (All the keypoints?)
+     - Can you add more classification categories?
+     - Can you create an interface for training and showing the results of model's prediction?
+     - Can you turn this into a regression model?
 4. Complete a blog post with your response, real-time ML system, and documentation of your code exercise and [link from the homework wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F21/wiki/Assignment-4).
