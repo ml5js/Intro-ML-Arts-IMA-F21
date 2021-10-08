@@ -1,6 +1,6 @@
 # Convolutional Neural Network (CNN)
 
-- [Week 5 CNN Slides](https://docs.google.com/presentation/d/14EKV7ZIhk-3ioGCZPxp646e1264Dy0wOdFj2vhxUsWA/edit#slide=id.g620edd8155_0_4)
+- [Week 5 CNN Slides](https://docs.google.com/presentation/d/14EKV7ZIhk-3ioGCZPxp646e1264Dy0wOdFj2vhxUsWA/edit?usp=sharing)
 
 ## Session A: What is CNN?
 
