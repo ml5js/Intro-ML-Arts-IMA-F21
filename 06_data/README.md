@@ -37,22 +37,42 @@
 - [Color Classifer JSON Data](https://editor.p5js.org/ima_ml/sketches/WOLz4pub3)
 - [Color Classifier CSV Data](https://editor.p5js.org/ima_ml/sketches/8eskYqyhA)
 
-1. Find a dataset that interests you and link to it from [the assignment 5 wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F20/wiki/Assignment-5#for-wednesday-oct-7-complete-step-1-of-weeks-assignment) Some ideas:
-   - Something you find online. For example, take a look at [Kaggle](https://www.kaggle.com/) and here is a list of [datasets compiled last year](https://github.com/ml5js/Intro-ML-Arts-IMA/wiki/Datasets).
-   - Find a dataset that you collect yourself or is already being collected about you. For example, personal data like steps taken per day, browser history, minutes spent on your mobile device, sensor readings, and more.
-   - A dataset that you collect by crowdsourcing data. One way to approach this is to create a google form with questions and ask friends and fellow students to complete the form.
-2. Consider the following questions related to your dataset:
-   - Who collected and compiled it?
-   - Why was it collected?
-   - How was it collected?
-   - Describe the data: What are the dimensions? What are the variables and their data types? What can the first 5-20 rows tell us?
-   - Is there missing, incorrect, or otherwise problematic data?
-   - For whom is this data accurate or useful? What is this data _unrepresentative_ of? (Who is missing and left out of the data?)
-   - Knowing what you know now about machine learning, what will a model trained on this data help you do? Are there are alternative (non-machine learning) methods you could use instead?
-3. Pick from one of the following three "coding exercise" options:
+## Assignment 5b
 
-   - Option #1: Augment Lydia Jessup's [311 Calls ml5.js example](https://editor.p5js.org/lydiajessup/sketches/NQ6iRoAM2). You could add an additional input field, customize the interface, or change other parameters of `ml5.neuralNetwork()`.
-   - Option #2: Train a machine learning model in ml5.js with the dataset you picked for part 1 of the assignment.
-   - Option #3: Continue working on your sketch from [Assignment 4](https://github.com/ml5js/Intro-ML-Arts-IMA-F20/wiki/Assignment-4). Document improvements or changes you made.
+### Data Research
 
-4. Complete a blog post with dataset description and documentation of your code exercise. [Link from the homework wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F20/wiki/Assignment-5).
+Select a dataset from class discussion and consider the following questions related to that dataset:
+
+- Who collected and compiled it?
+- Why was it collected?
+- How was it collected?
+- Describe the data: What are the dimensions? What are the variables and their data types?
+- Is there missing, incorrect, or otherwise problematic data?
+- For whom is this data accurate or useful? What is this data _unrepresentative_ of? (Who is missing and left out of the data?)
+- Knowing what you know now about machine learning, what will a model trained on this data help you do? Are there are alternative (non-machine learning) uses of this data?
+
+### Coding Exercise
+
+For this assignment it's up to you to select an exercise building off of the multiple data collection and model training scenarios we've examined in weeks 4-6.
+
+#### 1: Interactive Real-Time Gesture Data
+
+Continue working on your sketch from [Assignment 4](https://github.com/ml5js/Intro-ML-Arts-IMA-F21/wiki/Assignment-4). What are your next steps? Maybe try breaking it into multiple sketches for saving / loading the trained model? Or try a regression model instead of classification?
+
+#### 2: Working with Quick Draw, DoodleNet
+
+Build off of one of the code examples (or invent your own) to develop you own creative use of Quick, Draw data.
+
+- [Rendering Quick, Draw drawings](https://editor.p5js.org/ima_ml/sketches/vCfQL93k7)
+- [Animating Quick, Draw! paths](https://editor.p5js.org/ima_ml/sketches/aT9zxHX7n)
+- [Classifying Drawings with ml5's DoodleNet: output in DOM element](https://editor.p5js.org/ima_ml/sketches/IbXlN6voN) -- _Can you make this one work with webcam input instead of canvas?_
+- [Classifying Drawings with ml5's DoodleNet: output in separate canvas](https://editor.p5js.org/ima_ml/sketches/XIZEoKBTL)
+
+#### 3: Other Data Sources
+
+Try loading JSON or tabular data into a p5.js sketch and train a model. Some suggestions:
+
+- Augment Lydia Jessup's [311 Calls ml5.js example](https://editor.p5js.org/lydiajessup/sketches/NQ6iRoAM2). You could add an additional input field, customize the interface, or change other parameters of `ml5.neuralNetwork()`.
+- Train a machine learning model in ml5.js with the dataset you picked for part 1 of the assignment.
+
+Complete a blog post with your dataset report and code exercise. [Link from the homework wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F20/wiki/Assignment-5b).
