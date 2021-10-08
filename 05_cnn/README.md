@@ -76,7 +76,9 @@
 
 ### Data Research
 
-In preparation for next Thursday's class [link to a dataset that interests you](https://github.com/ml5js/Intro-ML-Arts-IMA-F21/wiki/Assignment-5a). Some ideas:
+In preparation for next Thursday's class, find a dataset that interests you! Here are some places to get started:
 
 - Something you find online. For example, take a look at [Kaggle](https://www.kaggle.com/), [awesome datasets](https://github.com/awesomedata/awesome-public-datasets) or [this list of datasets](https://github.com/ml5js/Intro-ML-Arts-IMA-F21/wiki/Datasets).
 - Find a dataset that you collect yourself or is already being collected about you. For example, personal data like steps taken per day, browser history, minutes spent on your mobile device, sensor readings, and more.
+
+Post a link to the dataset that interests you on the homework wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F21/wiki/Assignment-5). (I would also suggest taking a peek at the [instructions for assignment 5b](https://github.com/ml5js/Intro-ML-Arts-IMA-F21/blob/main/06_data/README.md#assignment-5b) in next week's material).
