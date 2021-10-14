@@ -32,10 +32,16 @@
 - [Full Coding Train Video Series using TensorFlow.js](https://youtu.be/y59-frfKR58?list=PLRqwX-V7Uu6bmMRCIoTi72aNWHo7epX4L), 7.1-7.5 cover how the data was collected and cleaned
 - [Crowdsourcing Colors website](https://codingtrain.github.io/CrowdSourceColorData/index.html), [Crowdsourcing Colors source code](https://github.com/CodingTrain/CrowdSourceColorData)
 
-### ml5.js examples
+### More about Data from Lydia Jessup
+* [Data Wrangling slides](https://docs.google.com/presentation/d/1dPB75F-BEjhtHour7_b7b4UidKQ6vGIAOibvUlgg4EA/edit)
+* [Feminist Data Set](https://carolinesinders.com/feminist-data-set/) by Caroline Sinders
+* [Gender Shades: How well do IBM, Microsoft, and Face++ AI services guess the gender of a face?](http://gendershades.org/) by Joy Buolamwini and Timnit Gebru
 
+
+### ml5.js examples
 - [Color Classifer JSON Data](https://editor.p5js.org/ima_ml/sketches/WOLz4pub3)
 - [Color Classifier CSV Data](https://editor.p5js.org/ima_ml/sketches/8eskYqyhA)
+- [311 Call data from Lydisa Jessup](https://editor.p5js.org/lydiajessup/sketches/NQ6iRoAM2)
 
 ## Assignment 5b
 
