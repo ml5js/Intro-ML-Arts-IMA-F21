@@ -37,7 +37,6 @@
 * [Feminist Data Set](https://carolinesinders.com/feminist-data-set/) by Caroline Sinders
 * [Gender Shades: How well do IBM, Microsoft, and Face++ AI services guess the gender of a face?](http://gendershades.org/) by Joy Buolamwini and Timnit Gebru
 
-
 ### ml5.js examples
 - [Color Classifer JSON Data](https://editor.p5js.org/ima_ml/sketches/WOLz4pub3)
 - [Color Classifier CSV Data](https://editor.p5js.org/ima_ml/sketches/8eskYqyhA)
