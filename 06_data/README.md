@@ -36,6 +36,13 @@
 * [Data Wrangling slides](https://docs.google.com/presentation/d/1dPB75F-BEjhtHour7_b7b4UidKQ6vGIAOibvUlgg4EA/edit)
 * [Feminist Data Set](https://carolinesinders.com/feminist-data-set/) by Caroline Sinders
 * [Gender Shades: How well do IBM, Microsoft, and Face++ AI services guess the gender of a face?](http://gendershades.org/) by Joy Buolamwini and Timnit Gebru
+* Who collected and compiled it?
+    * Why was it collected?
+    * How was it collected?
+    * Describe the data: What are the dimensions? What are the variables and their data types?
+    * Is there missing, incorrect, or otherwise problematic data?
+    * For whom is this data accurate or useful? What is this data _unrepresentative_ of? (Who is missing and left out of the data?)
+    * Knowing what you know now about machine learning, what will a model trained on this data help you do? Are there are alternative (non-machine learning) uses of this data?
 
 ### ml5.js examples
 - [Color Classifer JSON Data](https://editor.p5js.org/ima_ml/sketches/WOLz4pub3)
@@ -44,27 +51,13 @@
 
 ## Assignment 5b
 
-### Data Research
-
-Select a dataset from class discussion and consider the following questions related to that dataset:
-
-- Who collected and compiled it?
-- Why was it collected?
-- How was it collected?
-- Describe the data: What are the dimensions? What are the variables and their data types?
-- Is there missing, incorrect, or otherwise problematic data?
-- For whom is this data accurate or useful? What is this data _unrepresentative_ of? (Who is missing and left out of the data?)
-- Knowing what you know now about machine learning, what will a model trained on this data help you do? Are there are alternative (non-machine learning) uses of this data?
-
-### Coding Exercise
-
 For this assignment it's up to you to select an exercise building off of the multiple data collection and model training scenarios we've examined in weeks 4-6.
 
-#### 1: Interactive Real-Time Gesture Data
+### 1: Interactive Real-Time Gesture Data
 
 Continue working on your sketch from [Assignment 4](https://github.com/ml5js/Intro-ML-Arts-IMA-F21/wiki/Assignment-4). What are your next steps? Maybe try breaking it into multiple sketches for saving / loading the trained model? Or try a regression model instead of classification?
 
-#### 2: Working with Quick Draw, DoodleNet
+### 2: Working with Quick Draw, DoodleNet
 
 Build off of one of the code examples (or invent your own) to develop you own creative use of Quick, Draw data.
 
@@ -73,7 +66,7 @@ Build off of one of the code examples (or invent your own) to develop you own cr
 - [Classifying Drawings with ml5's DoodleNet: output in DOM element](https://editor.p5js.org/ima_ml/sketches/IbXlN6voN) -- _Can you make this one work with webcam input instead of canvas?_
 - [Classifying Drawings with ml5's DoodleNet: output in separate canvas](https://editor.p5js.org/ima_ml/sketches/XIZEoKBTL)
 
-#### 3: Other Data Sources
+### 3: Other Data Sources
 
 Try loading JSON or tabular data into a p5.js sketch and train a model. Some suggestions:
 
