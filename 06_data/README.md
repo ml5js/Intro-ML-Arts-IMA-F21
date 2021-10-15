@@ -52,7 +52,7 @@
 
 ## Assignment 5b
 
-For this assignment it's up to you to select an exercise building off of the multiple data collection and model training scenarios we've examined in weeks 4-6.
+For this assignment it's up to you to select an exercise building off of the multiple data collection and model training scenarios we've examined in weeks 4-6. Here are three scenarios to choose from to help you get started. (To be clear, just pick one or combine into one assignment, do not do all three!)
 
 ### 1: Interactive Real-Time Gesture Data
 
