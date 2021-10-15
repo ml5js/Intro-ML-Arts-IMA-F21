@@ -36,7 +36,8 @@
 * [Data Wrangling slides](https://docs.google.com/presentation/d/1dPB75F-BEjhtHour7_b7b4UidKQ6vGIAOibvUlgg4EA/edit)
 * [Feminist Data Set](https://carolinesinders.com/feminist-data-set/) by Caroline Sinders
 * [Gender Shades: How well do IBM, Microsoft, and Face++ AI services guess the gender of a face?](http://gendershades.org/) by Joy Buolamwini and Timnit Gebru
-* Who collected and compiled it?
+* Data Research Questions
+    * Who collected and compiled it?
     * Why was it collected?
     * How was it collected?
     * Describe the data: What are the dimensions? What are the variables and their data types?
