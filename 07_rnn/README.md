@@ -50,6 +50,7 @@
   - 💻 [charRNN generate](https://examples.ml5js.org/p5js/charrnn/charrnn_text/)
   - 💻 [charRNN interactive](https://examples.ml5js.org/p5js/charrnn/charrnn_interactive/)
   - 💻 [charRNN stateful](https://examples.ml5js.org/p5js/charrnn/charrnn_text_stateful/)\_
+- 💻 [charRNN training in colab](https://colab.research.google.com/drive/1V1xJfHfoG0UrI4Og3sE4kG2De1gLg0NK), [training-charRNN repo](https://github.com/ml5js/training-charRNN)
 
 ### LSTM
 
