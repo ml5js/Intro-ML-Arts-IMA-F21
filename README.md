@@ -36,12 +36,12 @@
 - no class Tuesday, 10/12!
 - Session 1 (Th 10/14): Working with Data
 
-### 7: Recurrent Neural Networks
+### 7: [Recurrent Neural Networks](07_rnn)
 
 - Session 1 (Tu 10/19): SketchRNN (Drawing)
 - Session 2 (Th 10/21): charRNN (Text)
 
-### 8: Pre-Trained Models with RunwayML
+### 8: [Pre-Trained Models with RunwayML](08_runwayml)
 
 - Session 1 (Tu 10/26): Introduction to RunwayML
 - Session 2 (Th 10/28): RunwayML Model Workshop
