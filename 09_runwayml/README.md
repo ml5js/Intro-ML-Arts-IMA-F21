@@ -46,6 +46,7 @@
 
 ### Training Resources
 
+- 🐭 [Computer Mouse Conference GAN presentation and resources](https://thecodingtrain.com/more/talks/mouse-learning.html)
 - 📄 [RunwayML Image Generation Model Training](https://learn.runwayml.com/#/create/train-image-generation)
 - 📄 [RunwayML Object Detection Model Training](https://learn.runwayml.com/#/create/train-object-detection)
 - 🎥 [Training StyleGAN machine learning models in Runway](https://youtu.be/vM8Cv8CLmr0) from Artificial Images
@@ -67,9 +68,7 @@
 
 - [Glitch! RunwayML template - StyleGAN](https://glitch.com/edit/#!/runway-ml-template)
 - [Glitch! RunwayML StyleGAN walk](https://glitch.com/edit/#!/latent-sky-walk)
-- [p5 web editor: send text to RunwayML: Generate an image with AttnGAN](https://editor.p5js.org/ima_ml/sketches/mOAf3ggYQ)
-- [p5 web editor: send webcam image to RunwayML: Photo booth with Fast Style Transfer](https://editor.p5js.org/ima_ml/sketches/nhxxASB9t)
-- [p5 web editor: send uploaded image file to RunwayML: Generate a caption with im2txt](https://editor.p5js.org/ima_ml/sketches/1kb6hUBvT)
+- [All Glitch + RunwayML templates](https://glitch.com/@daniel83693/runway-ml-templates)
 
 ### Assignment (Due Monday, Nov 9):
 
