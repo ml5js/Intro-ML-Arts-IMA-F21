@@ -46,17 +46,17 @@
 - Session 1 (Tu 10/26): Introduction to RunwayML
 - Session 2 (Th 10/28): RunwayML Model Workshop
 
-### 9: Generative Models with RunwayML
+### 9: [Generative Models with RunwayML](09_runwayml)
 
-- Session 1 (Tu 11/2): Hosted Models and Networking
+- Session 1 (Tu 11/2): Hosted Models and Networking, Model Training
 - Session 2 (Th 11/4): Generative Adversarial Networks, Interactive Image Synthesis
 
-### 10: Model Training with RunwayML
+### 10: [AI Enhanced video with Runway Sequel](10_sequel)
 
-- Session 1 (Tu 11/9): StyleGAN and Object Detection
-- Session 2 (Th 11/11): GPT-2
-
-### 11/12: Final Project Proposals
+- Session 1 (Tu 11/9): AI Rotoscoping, Optical Flow, Depth Estimation
+- Session 2 (Th 11/11): Sequel Workshop
+ 
+### 11/12: [Final Project Proposals](final)
 
 - Session 1 (Tu 11/16)
 - Session 2 (Th 11/18)
@@ -64,13 +64,13 @@
 
 **_Thanksgiving break_**
 
-### 12/13: Final Project Development and Testing
+### 12/13: [Final Project Development and Testing](final)
 
 - Session 1 (Tu 11/30)
 - Session 2 (Th 12/2)
 - Session 2 (Tu 12/7)
 
-### 14: Final Project Presentations
+### 14: [Final Project Presentations](final)
 
 - Session 1 (Th 12/9): Group 1
 - Session 2 (Tu 12/14): Group 2
