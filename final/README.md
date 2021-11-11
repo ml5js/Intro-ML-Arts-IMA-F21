@@ -38,7 +38,7 @@ Class time will be allocated for you to make progress on your project. Make a go
 
 User testing will follow a speed "round robin" format. There will be two sessions - for each session half the students will set up projects in the class room and the other half will "view" or "interact with" or "listen to" your project for ~10 minutes.
 
-Details to come.
+[Project Development and Testing details and schedule](https://github.com/ml5js/Intro-ML-Arts-IMA-F21/wiki/Final-Workshop-and-Testing)
 
 ## Final Presentation and Documentation Guidelines
 
